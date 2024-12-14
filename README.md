@@ -8,7 +8,7 @@
 <div align="center">
 🔭 I'm currently working on website framework and development
   <br/>
-🌱I'm currently learning ReactJs
+🌱I'm currently learning Flutter
 </div>
 <div align="center">
 <a href="mailto:lakshayraghuwanshi@gmail.com" target="_blank" />
